@@ -10,3 +10,9 @@ Run ./scripts/build-image
 ## Run docker image
 
 Run ./scripts/run-image
+
+
+## Todo Deploy on Azure
+
+
+## Todo Deploy on AWS
